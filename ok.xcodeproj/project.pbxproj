@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BE4153F2BDE30881F9284D77 /* annimal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = annimal.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BE41506A58EEB1FA580BFCAC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BE4157DE08E1ED68C3C388C8 = {
+			isa = PBXGroup;
+			children = (
+				BE41506A58EEB1FA580BFCAC /* Products */,
+				BE4153F2BDE30881F9284D77 /* annimal.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		BE415BA06F9B0E05E0B5D37C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = BE415FED0D643C0B3BE8CA94 /* Build configuration list for PBXProject "ok" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BE4157DE08E1ED68C3C388C8;
+			productRefGroup = BE41506A58EEB1FA580BFCAC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BE4150129C1087D9ACDC7B45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		BE415F5AAEF637E7F6BFA827 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BE415FED0D643C0B3BE8CA94 /* Build configuration list for PBXProject "ok" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE4150129C1087D9ACDC7B45 /* Debug */,
+				BE415F5AAEF637E7F6BFA827 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BE415BA06F9B0E05E0B5D37C /* Project object */;
+}
